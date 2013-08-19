@@ -5,8 +5,7 @@
 <br/>
 <br/>
 
-[第3回プログラム勉強会in富山](http://twipla.jp/events/57843)<br/>
-<br/>
+[ [第3回プログラム勉強会in富山](http://twipla.jp/events/57843) ] <br/> 
 <br/>
 2013-08-18 [@toby_net](https://twitter.com/toby_net) (諸事情枠) 
 
