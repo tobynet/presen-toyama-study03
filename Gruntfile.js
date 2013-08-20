@@ -85,7 +85,7 @@ module.exports = function(grunt) {
 		},
 
 		zip: {
-			'reveal-js-presentation.zip': [
+			'the-internet-intercom.zip': [
 				'index.html',
 				'content.md',
 				'css/**',
